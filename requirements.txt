@@ -1,6 +1,6 @@
 bleu==0.3
 nltk==3.6.6
-numpy==1.19.1
+numpy==1.21.0
 scipy==1.5.1
 six==1.15.0
 torch==1.6.0
